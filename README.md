@@ -34,7 +34,7 @@ Sou um **Desenvolvedor Full Stack** com 4 anos de experiência, especializado em
 ## 📊 Estatísticas do GitHub
 
 
-![thiagottg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagottg&theme=algolia&hide_border=true)
+![thiagottg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=guimathiagog&theme=algolia&hide_border=true)
 
 
 
