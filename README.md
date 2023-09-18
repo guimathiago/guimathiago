@@ -1,24 +1,40 @@
+## 👋 Olá, mundo! 
 
-Você pode me encontrar aqui:
+Sou um **Desenvolvedor Full Stack** com 4 anos de experiência, especializado em **React/TypeScript** e **Django/Python**. Estou sempre em busca de aprimorar minhas habilidades e aprender novas tecnologias.
 
-<div>
-  <a href="https://www.linkedin.com/in/thiagoguima/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.instagram.com/th.guiimaraes/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-  <a href="https://www.facebook.com/ThiagoGuimaraes1998/"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-</div><br>
-    
-🚀 Skills:
+## 💼 Habilidades & Experiência
 
-<div>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="ttps://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"/>
-</div>
+### Linguagens & Bibliotecas
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+
+
+### Frameworks & Design
+
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white)
+![Ant Design](https://img.shields.io/badge/-AntDesign-0170FE?logo=ant-design&logoColor=white)
+![Styled Components](https://img.shields.io/badge/-StyledComponents-DB7093?logo=styled-components&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+![Radix UI](https://img.shields.io/badge/-RadixUI-9CA3AF?logo=radix-ui&logoColor=white)
+
+### Ferramentas
+
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=vite&logoColor=white)
+
+## 📊 Estatísticas do GitHub
+
+![thiagottg's Stats](https://github-readme-stats.vercel.app/api?username=thiagottg&theme=algolia&show_icons=true&hide_border=true&count_private=true)
+![thiagottg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=thiagottg&theme=algolia&hide_border=true)
+![thiagottg's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=thiagottg&theme=algolia&show_icons=true&hide_border=true&layout=compact)
 
 
