@@ -33,10 +33,6 @@ Sou um **Desenvolvedor Full Stack** com 4 anos de experiência, especializado em
 
 ## 📊 Estatísticas do GitHub
 
-
-[![Anurag's GitHub stats](https://github-readme-stats-eight-neon-93.vercel.app/api?username=guimathiago&hide=stars,issues,contribs&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=transparent&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats) 
-
-
 [![GitHub Streak](https://streak-stats.demolab.com/?user=guimathiago&theme=transparent)](https://git.io/streak-stats)
 
 
